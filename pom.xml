@@ -8,7 +8,7 @@
     <artifactId>docker-jenkins-integration-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalName>docker-jenkins-integration-sample</finalName>
+    <finalName>java-docker-jenkins</finalName>
 </build>
 
 </project>
