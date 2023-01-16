@@ -5,3 +5,6 @@
 https://www.tecmint.com/install-nfs-server-on-ubuntu/
 
 https://www.geeksforgeeks.org/creating-an-mpi-cluster/
+
+
+https://medium.com/mpi-cluster-setup/mpi-clusters-within-a-lan-77168e0191b1
