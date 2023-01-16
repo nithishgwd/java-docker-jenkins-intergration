@@ -8,3 +8,4 @@ https://www.geeksforgeeks.org/creating-an-mpi-cluster/
 
 
 https://medium.com/mpi-cluster-setup/mpi-clusters-within-a-lan-77168e0191b1
+ssh-copy-id -i /home/mpiuser/.ssh/id_rsa.pub mpiuser@worker2
